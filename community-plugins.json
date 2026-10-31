@@ -50925,11 +50925,11 @@
     "repo": "toropanov/obsidian-conflict-resolver"
   },
   {
-    "id": "astral-trek",
+    "id": "astra",
     "name": "Astra",
     "author": "nightfall",
     "description": "An interactive Obsidian home dashboard for tasks, knowledge graph, plugins, vault health, and writing activity. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nightfall-yl/obsidian-astral-trek"
+    "repo": "nightfall-yl/obsidian-astra"
   },
   {
     "id": "rowbase",
